@@ -9,7 +9,7 @@
 
 
 
-## Tecnologias 
+## Tecnologias que estou estudando no momento atual
 
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
